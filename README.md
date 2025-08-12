@@ -25,9 +25,12 @@ Our policy framework consists of four types of documents, each with a distinct p
 
 This repository is organized as follows:
 
-- **/policies:** This directory contains all our high-level policy documents in Markdown format. Each file includes structured metadata (frontmatter) for automation and reporting.
-- **.github/CODEOWNERS:** This file automatically assigns reviewers for pull requests based on the policy being changed. This ensures that the right subject matter experts are always involved in the review process.
-- **.github/workflows/publish-policies.yml:** This GitHub Actions workflow automates the publishing of our policies to a central, accessible location (GitHub Pages) whenever a change is merged into the `main` branch.
+- **/policies:** This directory contains all our high-level policy documents in Markdown format. These documents define *what* is required.
+- **/standards:** This directory contains our standards documents, which define *how* our high-level policy requirements are met with specific, mandatory controls.
+- **/processes:** This directory contains our process documents, which provide step-by-step instructions for implementing specific standards.
+- **/guidance:** This directory contains our guidance documents, which provide non-mandatory, recommended best practices.
+- **.github/CODEOWNERS:** This file automatically assigns reviewers for pull requests based on the policy being changed.
+- **.github/workflows/publish-policies.yml:** This GitHub Actions workflow automates the publishing of all documents to GitHub Pages whenever a change is merged into the `main` branch.
 
 ## Change Management Process
 
