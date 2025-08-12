@@ -1,4 +1,5 @@
 Source: https://www.adamgroenhout.com/organizational-security-policy-as-code/
+
 ![Imgur](https://i.imgur.com/GbFN543.jpeg)
 
 # The Headline
