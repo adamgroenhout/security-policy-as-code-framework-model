@@ -8,7 +8,7 @@ next_annual_certification_date: 2025-08-10
 
 # Data Security Policy
 
-This document outlines the policy for data security. [Placeholder for policy content]
+This document outlines the policy for data security. This policy governs the security of all company and customer data. Data must be classified into one of the following categories: Public, Internal, Confidential, or Restricted. All data must be handled in accordance with its classification level, with specific protections applied to ensure confidentiality, integrity, and availability. Encryption must be used for all data classified as Confidential or higher, both at rest and in transit.
 
 ## Applicable Controls
 

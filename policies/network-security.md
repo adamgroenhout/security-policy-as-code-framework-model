@@ -8,7 +8,7 @@ next_annual_certification_date: 2025-08-10
 
 # Network Security Policy
 
-This document outlines the policy for network security. [Placeholder for policy content]
+This document outlines the policy for network security. This policy defines the requirements for securing the company's network infrastructure. The network shall be segmented based on data sensitivity and system criticality to limit the impact of a potential breach. All network segments must be protected by properly configured firewalls, which must be reviewed and approved by the network engineering team. Intrusion detection and prevention systems (IDPS) must be deployed at key network egress and ingress points to monitor for and block malicious traffic.
 
 ## Applicable Controls
 
