@@ -8,7 +8,7 @@ next_annual_certification_date: 2025-08-10
 
 # Incident Response Policy
 
-This document outlines the policy for incident response. [Placeholder for policy content]
+This document outlines the policy for incident response. This policy establishes the framework for responding to security incidents. The incident response process is structured around the following phases: Preparation, Detection & Analysis, Containment, Eradication, and Recovery. All security incidents must be reported immediately to the Incident Response Team. The team is responsible for managing the response process, from initial detection through post-incident review, to minimize impact and prevent future occurrences.
 
 ## Applicable Controls
 

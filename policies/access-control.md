@@ -8,7 +8,7 @@ next_annual_certification_date: 2025-08-10
 
 # Access Control Policy
 
-This document outlines the policy for access control. [Placeholder for policy content]
+This document outlines the policy for access control. This policy establishes the requirements for controlling access to company systems and data. All access shall be granted based on the principle of least privilege, meaning users are only given the minimum level of access necessary to perform their job responsibilities. Access rights shall be reviewed on a quarterly basis to ensure they remain appropriate. All access must be tied to a unique user identity; shared accounts are prohibited.
 
 ## Applicable Controls
 
