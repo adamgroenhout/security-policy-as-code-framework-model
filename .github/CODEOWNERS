@@ -1,5 +1,21 @@
+# Policies
 /policies/data-security.md @github/data-governance
 /policies/access-control.md @github/security-engineering-team
 /policies/vulnerability-management.md @github/security-engineering-team
 /policies/network-security.md @github/network-engineering
 /policies/incident-response.md @github/incident-response-team
+
+# Standards
+/standards/data-classification-standard.md @github/data-governance
+/standards/password-standard.md @github/security-engineering-team
+/standards/firewall-rule-standard.md @github/network-engineering
+/standards/vulnerability-scanning-standard.md @github/security-engineering-team
+
+# Processes
+/processes/data-classification-process.md @github/data-governance
+/processes/firewall-rule-request-process.md @github/network-engineering
+/processes/incident-reporting-process.md @github/incident-response-team
+
+# Guidance
+/guidance/secure-coding-guidance.md @github/security-engineering-team
+/guidance/phishing-awareness-guidance.md @github/incident-response-team
