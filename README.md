@@ -14,6 +14,9 @@
         |_|                   |___/
 
 ```
+___
+This repo and it's content were made to reflect the ideas in [this blog post](https://www.adamgroenhout.com/organizational-security-policy-as-code/)
+___
 
 # Policy as Code
 
