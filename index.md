@@ -37,6 +37,3 @@ Non-mandatory, recommended best practices.
 - [Secure Coding Guidance](./guidance/secure-coding-guidance.md)
 
 ---
-
-## Other Documents
-- [Blog Post](./blogpost.md)
