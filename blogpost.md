@@ -1,3 +1,8 @@
+---
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
+---
 Source: https://www.adamgroenhout.com/organizational-security-policy-as-code/
 
 ![Imgur](https://i.imgur.com/GbFN543.jpeg)

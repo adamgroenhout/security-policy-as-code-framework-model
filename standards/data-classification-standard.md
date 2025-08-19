@@ -2,6 +2,9 @@
 standard_id: ds-std-001
 title: "Data Classification Standard"
 policy_id: ds-001
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
 ---
 
 # 1. Overview

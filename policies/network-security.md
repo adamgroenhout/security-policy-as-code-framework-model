@@ -4,6 +4,9 @@ title: Network Security Policy
 owner: "@github/network-engineering"
 sme: "network.engineering@example.com"
 next_annual_certification_date: 2025-08-10
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
 ---
 
 # 1. Overview

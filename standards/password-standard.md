@@ -2,6 +2,9 @@
 standard_id: ac-std-001
 title: "Password Standard"
 policy_id: ac-001
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
 ---
 
 # 1. Overview
