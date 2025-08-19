@@ -1,4 +1,5 @@
-_ _
+```
+                                                _ _
                       ___  ___  ___ _   _ _ __(_) |_ _   _
                      / __|/ _ \/ __| | | | '__| | __| | | |
                      \__ \  __/ (__| |_| | |  | | |_| |_| |
@@ -11,7 +12,6 @@ _ _
         | |_) | (_) | | | (__| |_| | | (_| \__ \ | (_| (_) | (_| |  __/
         | .__/ \___/|_|_|\___|\__, |  \__,_|___/  \___\___/ \__,_|\___|
         |_|                   |___/
-
 ```
 ___
 This repo and it's content were made to reflect the ideas in [this blog post](https://www.adamgroenhout.com/organizational-security-policy-as-code/)
