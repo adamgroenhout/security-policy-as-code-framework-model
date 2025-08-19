@@ -7,7 +7,9 @@ policy_id: ["ir-001", "ds-001"]
 # 1. Overview
 This document provides non-mandatory guidance to help all employees identify and avoid phishing attacks. Phishing is a fraudulent attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in an electronic communication. Being vigilant is our first and most important line of defense.
 
-# 2. How to Spot a Phishing Email
+# 2. Key Recommendations
+
+## 2.1. How to Spot a Phishing Email
 
 Look out for these common red flags. A single flag may not be definitive, but the presence of multiple flags is highly suspicious.
 
@@ -23,7 +25,7 @@ Look out for these common red flags. A single flag may not be definitive, but th
     *   *Example Misspelling:* `user@micros0ft.com` instead of `user@microsoft.com`.
     *   *Example Wrong Domain:* An email claiming to be from "Bank of America" that comes from `user@hotmail.com`.
 
-# 3. What to Do If You Suspect Phishing
+## 2.2. What to Do If You Suspect Phishing
 
 If you suspect an email is a phishing attempt:
 1.  **Do not click any links.**
@@ -32,3 +34,6 @@ If you suspect an email is a phishing attempt:
 4.  **Report the email immediately.** Use the "Report Phishing" button in your email client, or forward the email as an attachment to the Incident Response Team by following the `incident-reporting-process.md`.
 
 When in doubt, always err on the side of caution and report it.
+
+# 3. Helpful Resources
+[Links to external documentation, tools, or other resources.]

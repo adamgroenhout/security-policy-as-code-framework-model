@@ -1,7 +1,7 @@
 ---
 process_id: ds-proc-001
 title: "Data Classification Process"
-standard_id: ds-std-001
+policy_id: ds-001
 ---
 
 # 1. Overview
