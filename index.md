@@ -1,3 +1,8 @@
+---
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
+---
 # Organizational Policies
 
 This site hosts our organization's policies, standards, processes, and guidance documents. These documents are managed as code to ensure they are always up-to-date, auditable, and aligned with our operational realities.

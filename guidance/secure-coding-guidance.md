@@ -1,4 +1,7 @@
 ---
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
 guidance_id: vm-guide-001
 title: "Secure Coding Guidance"
 policy_id: vm-001

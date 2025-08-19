@@ -1,4 +1,7 @@
 ---
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
 standard_id: ns-std-001
 title: "Firewall Rule Standard"
 policy_id: ns-001

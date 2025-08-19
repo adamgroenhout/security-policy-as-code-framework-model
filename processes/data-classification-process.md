@@ -1,4 +1,7 @@
 ---
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
 process_id: ds-proc-001
 title: "Data Classification Process"
 policy_id: ds-001
