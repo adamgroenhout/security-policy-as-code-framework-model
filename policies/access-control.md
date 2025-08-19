@@ -1,12 +1,12 @@
 ---
+creation_date: 2025-08-16
+origin: "To be determined"
+origin_details: "To be determined"
 policy_id: ac-001
 title: Access Control Policy
 owner: "@github/security-engineering-team"
 sme: "security.engineering@example.com"
 next_annual_certification_date: 2025-08-10
-creation_date: 2025-08-16
-origin: "To be determined"
-origin_details: "To be determined"
 ---
 
 # 1. Overview
