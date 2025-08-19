@@ -51,6 +51,27 @@ This repository is organized as follows:
 - **/guidance:** This directory contains our guidance documents, which provide non-mandatory, recommended best practices.
 - **.github/CODEOWNERS:** This file automatically assigns reviewers for pull requests based on the policy being changed.
 - **.github/workflows/publish-policies.yml:** This GitHub Actions workflow automates the publishing of all documents to GitHub Pages whenever a change is merged into the `main` branch.
+- **/templates:** This directory contains templates for each document type to enforce a consistent structure.
+
+## Automated Validation
+
+To ensure consistency and adherence to our defined structure, this repository uses an automated validation system. Each document type has a corresponding template located in the `/templates` directory. These templates define the required frontmatter (metadata) and section headings for each document.
+
+When a pull request is opened that modifies any markdown files, a GitHub Actions workflow automatically runs a validation script (`validate.py`). This script checks the changed documents against their respective templates to ensure they are compliant. This validation must pass before a pull request can be merged.
+
+### Local Validation
+You can run the validation linter locally to check all documents in the repository. This is useful for verifying your changes before opening a pull request.
+
+1.  **Install Dependencies:**
+    ```bash
+    pip install poetry
+    poetry install
+    ```
+
+2.  **Run the Linter:**
+    ```bash
+    poetry run python linter.py
+    ```
 
 ## Change Management Process
 
