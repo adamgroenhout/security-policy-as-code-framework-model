@@ -1,7 +1,11 @@
 ---
 guidance_id: "GUID-###"
-title: "Guidance Title"
 policy_id: "POL-###"
+title: "Guidance Title"
+creation_date: "YYYY-MM-DD"
+origin: "To be determined"
+owner_group: "@github/security-engineering-team"
+sme(s): "security.engineering@example.com"
 ---
 
 # 1. Overview

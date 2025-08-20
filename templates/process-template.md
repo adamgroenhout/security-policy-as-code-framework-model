@@ -1,7 +1,11 @@
 ---
 process_id: "PROC-###"
-title: "Process Title"
 policy_id: "POL-###"
+title: "Process Title"
+creation_date: "YYYY-MM-DD"
+origin: "To be determined"
+owner_group: "@github/security-engineering-team"
+sme(s): "security.engineering@example.com"
 ---
 
 # 1. Overview
