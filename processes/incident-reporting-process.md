@@ -1,10 +1,11 @@
 ---
+process_id: ir-proc-001
+policy_id: ir-001
+title: "Incident Reporting Process"
 creation_date: 2025-08-16
 origin: "To be determined"
-origin_details: "To be determined"
-process_id: ir-proc-001
-title: "Incident Reporting Process"
-policy_id: ir-001
+owner_group: "@github/security-engineering-team"
+sme(s): "security.engineering@example.com"
 ---
 
 # 1. Overview

@@ -1,12 +1,10 @@
 ---
-creation_date: 2025-08-16
-origin: "To be determined"
-origin_details: "To be determined"
 policy_id: ir-001
 title: Incident Response Policy
-owner: "@github/incident-response-team"
-sme: "incident.response@example.com"
-next_annual_certification_date: 2025-08-10
+creation_date: 2025-08-16
+origin: "To be determined"
+owner_group: "@github/incident-response-team"
+sme(s): "incident.response@example.com"
 ---
 
 # 1. Overview

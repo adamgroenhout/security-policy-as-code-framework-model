@@ -1,7 +1,11 @@
 ---
 standard_id: "STD-###"
-title: "Standard Title"
 policy_id: "POL-###"
+title: "Standard Title"
+creation_date: "YYYY-MM-DD"
+origin: "To be determined"
+owner_group: "@github/security-engineering-team"
+sme(s): "security.engineering@example.com"
 ---
 
 # 1. Overview

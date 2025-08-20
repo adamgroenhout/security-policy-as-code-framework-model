@@ -1,12 +1,10 @@
 ---
-creation_date: 2025-08-16
-origin: "To be determined"
-origin_details: "To be determined"
 policy_id: ds-001
 title: Data Security Policy
-owner: "@github/data-governance"
-sme: "data.protection.officer@example.com"
-next_annual_certification_date: 2025-08-10
+creation_date: 2025-08-16
+origin: "To be determined"
+owner_group: "@github/data-governance"
+sme(s): "data.protection.officer@example.com"
 ---
 
 # 1. Overview

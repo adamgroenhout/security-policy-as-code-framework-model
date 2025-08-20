@@ -1,9 +1,10 @@
 ---
 policy_id: "POL-###"
 title: "Policy Title"
-owner: "@github/security-engineering-team"
-sme: "security.engineering@example.com"
-next_annual_certification_date: "YYYY-MM-DD"
+creation_date: "YYYY-MM-DD"
+origin: "To be determined"
+owner_group: "@github/security-engineering-team"
+sme(s): "security.engineering@example.com"
 ---
 
 # 1. Overview
