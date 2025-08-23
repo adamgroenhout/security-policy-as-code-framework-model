@@ -1,19 +1,6 @@
-```
- ___  ___    __  _   _  ___  ___  _____ _    _
-/ __|| __| / __|| | | || _ \|_ _||_   _|\ \ / /
-\__ \| _| | (__ | |_| ||   / | |   | |   \ V /
-|___/|___| \___| \___/ |_|_\|___|  |_|    |_|
 
- ___   ___   _     ___    __ _    _
-| _ \ / _ \ | |   |_ _| / __|\ \ / /
-|  _/| (_) || |__  | | | (__  \ V /
-|_|   \___/ |____||___| \___|  |_|
+<img width="1281" height="409" alt="ascii-art-text" src="https://github.com/user-attachments/assets/3a64b6c5-1883-4e36-bb15-98af9ea95088" />
 
-   _    ___       __   ___   ___   ___
-  /_\  / __|    / __| / _ \ |   \ | __|
- / _ \ \__ \   | (__ | (_) || |) || _|
-/_/ \_\|___/    \___| \___/ |___/ |___|                                                                   
-```
 ___
 This repo and it's content were made to reflect the ideas in [this blog post](https://www.adamgroenhout.com/organizational-security-policy-as-code/)
 ___
