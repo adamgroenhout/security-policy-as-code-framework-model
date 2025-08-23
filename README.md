@@ -12,7 +12,7 @@
    _    ___       __   ___   ___   ___
   /_\  / __|    / __| / _ \ |   \ | __|
  / _ \ \__ \   | (__ | (_) || |) || _|
-/_/ \_\|___/    \___| \___/ |___/ |___|                                                                    
+/_/ \_\|___/    \___| \___/ |___/ |___|                                                                   
 ```
 ___
 This repo and it's content were made to reflect the ideas in [this blog post](https://www.adamgroenhout.com/organizational-security-policy-as-code/)
