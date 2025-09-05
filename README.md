@@ -42,6 +42,7 @@ This repository is organized as follows:
 - **/standards:** This directory contains our standards documents, which define *how* our high-level policy requirements are met with specific, mandatory controls.
 - **/processes:** This directory contains our process documents, which provide step-by-step instructions for implementing specific standards.
 - **/guidance:** This directory contains our guidance documents, which provide non-mandatory, recommended best practices.
+- **/retired:** This directory contains documents that are no longer active but are kept for historical purposes.
 - **.github/CODEOWNERS:** This file automatically assigns reviewers for pull requests based on the policy being changed.
 - **.github/workflows/publish-policies.yml:** This GitHub Actions workflow automates the publishing of all documents to GitHub Pages whenever a change is merged into the `main` branch.
 - **/templates:** This directory contains templates for each document type to enforce a consistent structure.
@@ -82,6 +83,14 @@ To propose a change:
     - A link to any relevant tickets or project documentation.
 4.  **Request Reviews:** The `CODEOWNERS` file will automatically assign the appropriate reviewers. You should also notify any other relevant stakeholders.
 5.  **Merge:** Once the pull request has been approved by the required reviewers, it can be merged into `main`.
+
+### Retiring a Document
+
+To retire a document that is no longer needed, follow these steps:
+1.  **Move the Document:** Move the document from its current directory (e.g., `/policies`) to the `/retired` directory.
+2.  **Update the Index:** Remove the link to the document from the main `index.md` file.
+3.  **Add to Retired Index:** Add a link to the retired document in `retired/index.md`.
+4.  **Open a Pull Request:** Open a pull request with these changes. The pull request should explain why the document is being retired.
 
 ## Branch Protection Rules
 
