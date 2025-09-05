@@ -10,7 +10,6 @@ This site hosts our organization's policies, standards, processes, and guidance 
 - [Data Security](./policies/data-security.md)
 - [Incident Response](./policies/incident-response.md)
 - [Network Security](./policies/network-security.md)
-- [Vulnerability Management](./policies/vulnerability-management.md)
 
 ---
 
@@ -35,5 +34,11 @@ The step-by-step implementation of standards.
 Non-mandatory, recommended best practices.
 - [Phishing Awareness Guidance](./guidance/phishing-awareness-guidance.md)
 - [Secure Coding Guidance](./guidance/secure-coding-guidance.md)
+
+---
+
+## Retired Documents
+Documents that are no longer active but are kept for historical purposes.
+- [Retired Documents](./retired/index.md)
 
 ---

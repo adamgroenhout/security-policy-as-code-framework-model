@@ -52,6 +52,9 @@ def main():
 
     error_found = False
     for path in args.paths:
+        if "retired" in path.parts:
+            continue
+
         if not path.exists():
             print(f"Error: File not found: {path}", file=sys.stderr)
             error_found = True
